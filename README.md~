@@ -61,10 +61,6 @@ roslaunch tm_gazebo tm700.launch
 ```
 roslaunch tm_gazebo tm700_gazebo_moveit.launch
 ```
-or
-```
-roslaunch tm_gazebo tm700_gazebo_moveit_joint_limited.launch 
-```
 Control the robot in real world or Gazebo
 ```
 rosrun tm700_test tm700_test
